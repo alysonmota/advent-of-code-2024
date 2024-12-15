@@ -1,0 +1,9 @@
+{
+	"name": "advent-of-code",
+	"type": "module",
+	"devDependencies": {
+		"@mota.alyson/presets": "1.1.7",
+		"@types/bun": "1.1.14",
+		"typescript": "5.7.2"
+	}
+}
